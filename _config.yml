@@ -1,0 +1,14 @@
+layout_spectrum: 0.8307263518217951
+typography_spectrum: 0.9174241251312196
+color:
+  brandStrength: 0.3009327817708254
+  lightness: 0.8143830257467926
+  saturation: 0.2970432657748461
+  rhythmicContrast: 0.9065797871444374
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: Connectium
