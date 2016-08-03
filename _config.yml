@@ -1,4 +1,3 @@
-layout_spectrum: 0.8307263518217951
 typography_spectrum: 0.9174241251312196
 color:
   brandStrength: 0.3009327817708254
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.8307263518217951
 name: Connectium
 title: Yesterday Meets Tomorrow
+description: The Confluence of Things to Come
