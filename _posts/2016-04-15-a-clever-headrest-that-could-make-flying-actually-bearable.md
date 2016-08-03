@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T16:12:12.673Z'
+datePublished: '2016-08-03T16:12:12.681Z'
 sourcePath: >-
   _posts/2016-04-15-a-clever-headrest-that-could-make-flying-actually-bearable.md
 inFeed: true
@@ -36,7 +36,7 @@ author:
   - name: Alex Davies
     url: 'http://www.wired.com/author/alex-davies/'
     avatar: {}
-dateModified: '2016-08-03T16:12:07.977Z'
+dateModified: '2016-08-03T16:12:09.054Z'
 title: A Clever Headrest That Could Make Flying Actually Bearable
 app_links: []
 publisher:
