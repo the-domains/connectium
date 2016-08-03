@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T16:12:12.692Z'
+datePublished: '2016-08-03T16:12:12.684Z'
 sourcePath: _posts/2016-04-15-headspace-app-launches-personal-meditative-pods.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/design/headspace-app-meditative-pods'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-03T16:12:08.974Z'
+dateModified: '2016-08-03T16:12:09.235Z'
 title: Headspace App Launches Personal Meditative Pods
 app_links: []
 publisher:
